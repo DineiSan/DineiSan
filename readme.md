@@ -1,6 +1,6 @@
 # Projeto WikiMusic
 
-## Requitos
+## Requisitos
 
 - Backend
 - Frontend
