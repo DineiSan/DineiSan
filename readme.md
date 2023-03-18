@@ -8,9 +8,9 @@
 
 ## Funcionalidades
 
-- Eixibi infos. de albuns musicais
-- Exibi infos. dos artista
-- Exibi a música mais tocada do artista
+- Exibir infos. de albuns musicais
+- Exibir infos. dos artista
+- Exibir a música mais tocada do artista
 - Albuns relacionados
 - Album mais tocado no ano
 - Musica com mais stream
